@@ -17,7 +17,7 @@
                     <div class="o_setting_right_pane">
                         <label string="Customer deselection interval (sec)"/>
                         <div class="text-muted">
-                            Deselectes the customers after the setted time
+                            Deselect customers after a set time
                         </div>
                     </div>
                 </div>
